@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE QtCreatorProject>
-<!-- Written by QtCreator 18.0.0, 2025-11-27T15:54:32. -->
+<!-- Written by QtCreator 18.0.0, 2025-11-27T17:08:36. -->
 <qtcreator>
  <data>
   <variable>EnvironmentId</variable>
@@ -112,7 +112,7 @@
      <valuemap type="QVariantMap" key="ProjectExplorer.BuildStepList.Step.1">
       <value type="bool" key="ProjectExplorer.BuildStep.Enabled">true</value>
       <value type="QString" key="ProjectExplorer.CopyStep.Source">C:\Users\zhuko\QT Projects\new\Homework2\ui_mainwindow.py</value>
-      <value type="QString" key="ProjectExplorer.CopyStep.Target">C:\Users\zhuko\PycharmProjects\Homework\main.py</value>
+      <value type="QString" key="ProjectExplorer.CopyStep.Target">C:\Users\zhuko\PycharmProjects\Homework\owner_window.py</value>
       <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">ProjectExplorer.CopyFileStep</value>
      </valuemap>
      <value type="qlonglong" key="ProjectExplorer.BuildStepList.StepsCount">2</value>
@@ -161,7 +161,7 @@
      <value type="QString" key="ProjectExplorer.ProjectConfiguration.DisplayName">mainwindow.py</value>
      <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">PythonEditor.RunConfiguration.</value>
      <value type="QString" key="ProjectExplorer.RunConfiguration.BuildKey">C:/Users/zhuko/QT Projects/new/Homework2/mainwindow.py</value>
-     <value type="bool" key="ProjectExplorer.RunConfiguration.Customized">false</value>
+     <value type="bool" key="ProjectExplorer.RunConfiguration.Customized">true</value>
      <value type="QString" key="ProjectExplorer.RunConfiguration.UniqueId"></value>
      <value type="QString" key="PythonEditor.RunConfiguation.Script">C:\Users\zhuko\QT Projects\new\Homework2\mainwindow.py</value>
      <value type="bool" key="RunConfiguration.UseCppDebuggerAuto">true</value>
@@ -199,7 +199,7 @@
     <value type="QString" key="ProjectExplorer.ProjectConfiguration.DisplayName">mainwindow.py</value>
     <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">PythonEditor.RunConfiguration.</value>
     <value type="QString" key="ProjectExplorer.RunConfiguration.BuildKey">C:/Users/zhuko/QT Projects/new/Homework2/mainwindow.py</value>
-    <value type="bool" key="ProjectExplorer.RunConfiguration.Customized">false</value>
+    <value type="bool" key="ProjectExplorer.RunConfiguration.Customized">true</value>
     <value type="QString" key="ProjectExplorer.RunConfiguration.UniqueId"></value>
     <value type="QString" key="PythonEditor.RunConfiguation.Script">C:\Users\zhuko\QT Projects\new\Homework2\mainwindow.py</value>
     <value type="bool" key="RunConfiguration.UseCppDebuggerAuto">true</value>

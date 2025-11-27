@@ -1,5 +1,5 @@
 [project]
-name = "PySide Project"
+name = "QT_project_three"
 
 [tool.pyside6-project]
 files = ["mainwindow.py", "mainwindow.ui"]
